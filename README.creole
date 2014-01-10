@@ -12,6 +12,8 @@ LICENSE in the respective source directories.
 You have two options...
 # Download the precompiled .xsiaddon file from the github download page. http://www.steven-caron.com/downloads/tools/PyQtForSoftimage_beta5.xsiaddon
 # Compile the plugin from the source code provided. See "Build Instructions" section for more information.
+
+NOTE:  You MUST uncheck "Use Python Installed with Softimage (Windows Only)" from Preferences/Scripting in Softimage.
    
 == Build Instructions:
 **These instructions are not complete yet!**
